@@ -1,1 +1,2 @@
-Put the whole `Umbra` pak content here.
+- add the localization folder here
+- add the Umbra folder here from your extracted Game files (`Game/Umbra`)
