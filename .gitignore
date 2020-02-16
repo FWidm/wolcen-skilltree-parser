@@ -1,0 +1,6 @@
+*.pyc
+doc/build/*
+*coverage*
+!input/readme.md
+.idea
+venv
